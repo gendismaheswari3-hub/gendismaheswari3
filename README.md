@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gendismaheswari3&label=Profile%20views&color=0e75b6&style=flat" alt="gendismaheswari3" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="![Trophy](https://github-profile-trophy.vercel.app/?username=gendismaheswari3&theme=flat&column=7)" alt="gendismaheswari3" /></a> </p>
+![Trophy](https://github-profile-trophy.vercel.app/?username=gendismaheswari3&theme=flat&column=7)
 
 - 🌱 I’m currently learning **c,c++,and python**
 
