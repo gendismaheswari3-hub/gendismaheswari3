@@ -3,8 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gendismaheswari3&label=Profile%20views&color=0e75b6&style=flat" alt="gendismaheswari3" /> </p>
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=gendismaheswari3&theme=flat&column=7)
-
+![Trophy](https://github-profile-trophy.vercel.app/?username=gendismaheswari3-hub)
 - 🌱 I’m currently learning **c,c++,and python**
 
 - 💬 Ask me about **i'm an Informatics students at Universitas Jenderal Soedirman with a passion for IT. I enjoy learning how technology can create engaging and rewarding user experiences**
